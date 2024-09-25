@@ -92,7 +92,7 @@ BEGIN
             VALUE "CompanyName", "com.example" "\0"
             VALUE "FileDescription", "simple_timer_flutter" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "simple_timer_flutter" "\0"
+            VALUE "InternalName", "com.sonofnos.basictimer" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2024 com.example. All rights reserved." "\0"
             VALUE "OriginalFilename", "simple_timer_flutter.exe" "\0"
             VALUE "ProductName", "simple_timer_flutter" "\0"
